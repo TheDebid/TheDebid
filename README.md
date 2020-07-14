@@ -1,13 +1,13 @@
-<div align="center">
-  <h3>Hi there, What's up! 👋</h3>
-  <p>Welcome to my profile,I'm [Debid!]() Magar, a Full Stack Developer 👨‍💻 from Nepal</p>
-  <p>I am enamored with Code ❤</p>
-  <a href="https://twitter.com/linkwithdm">
+### Hi there, I'm [Debid!]() 👋
+
+<a href="https://twitter.com/linkwithdm">
   <img align="left" alt="Debid Magar | Twitter" width="21px" src="https://raw.githubusercontent.com/linkwithdm/linkwithdm/master/assets/twitter.svg" />
 </a>
 
-</div>
-****
+<br />
+<br />
+
+Hi, I'm Debid Magar, a Full Stack Developer 👨‍💻 from Nepal.
 
 - 🔭 I’m currently working on my project [LMO](https://github.com/linkwithdm)
 - 💬 Ask me about anything [here](https://github.com/linkwithdm/linkwithdm/issues)
