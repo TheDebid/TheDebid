@@ -1,13 +1,13 @@
-### Hi there, I'm [Debid!]() 👋
-
-<a href="https://twitter.com/linkwithdm">
+<div align="center">
+  <h3>Hi there, What's up! 👋</h3>
+  <p>Welcome to my profile,I'm [Debid!]() Magar, a Full Stack Developer 👨‍💻 from Nepal</p>
+  <p>I am enamored with Code ❤</p>
+  <a href="https://twitter.com/linkwithdm">
   <img align="left" alt="Debid Magar | Twitter" width="21px" src="https://raw.githubusercontent.com/linkwithdm/linkwithdm/master/assets/twitter.svg" />
 </a>
 
-<br />
-<br />
-
-Hi, I'm Debid Magar, a Full Stack Developer 👨‍💻 from Nepal.
+</div>
+****
 
 - 🔭 I’m currently working on my project [LMO](https://github.com/linkwithdm)
 - 💬 Ask me about anything [here](https://github.com/linkwithdm/linkwithdm/issues)
@@ -21,13 +21,8 @@ Hi, I'm Debid Magar, a Full Stack Developer 👨‍💻 from Nepal.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png"></code>
 
 ![Debid's github stats](https://github-readme-stats.vercel.app/api?username=linkwithdm&show_icons=true&hide=["prs","issues","contribs"])
 
