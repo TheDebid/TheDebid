@@ -1,7 +1,7 @@
 ### Hi there, I'm [Debid!]() 👋
 
-<a href="https://twitter.com/linkwithdm">
-  <img align="left" alt="Debid Magar | Twitter" width="21px" src="https://raw.githubusercontent.com/linkwithdm/linkwithdm/master/assets/twitter.svg" />
+<a href="https://twitter.com/TheDebid">
+  <img align="left" alt="Debid Magar | Twitter" width="21px" src="https://raw.githubusercontent.com/TheDebid/TheDebid/master/assets/twitter.svg" />
 </a>
 
 <br />
@@ -9,8 +9,8 @@
 
 Hi, I'm Debid Magar, a Full Stack Developer 👨‍💻 from Nepal.
 
-- 🔭 I’m currently working on my project [LMO](https://github.com/linkwithdm)
-- 💬 Ask me about anything [here](https://github.com/linkwithdm/linkwithdm/issues)
+- 🔭 I’m currently working on my project [LMO](https://github.com/TheDebid)
+- 💬 Ask me about anything [here](https://github.com/TheDebid/TheDebid/issues)
 - 🌱 I’m currently learning AWS & Typescript
 - 😄 Pronouns: Debid not Debit etc
 
