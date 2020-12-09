@@ -1,4 +1,4 @@
-### Hi there, I'm [Debid!]() <img src="https://raw.githubusercontent.com/TheDebid/TheDebid/master/assets/hi.gif" width="30px" />
+### Hi there, I'm Debid <img src="https://raw.githubusercontent.com/TheDebid/TheDebid/master/assets/hi.gif" width="30px" />
 
 :computer: I'm a Full Stack Developer  
 :zap: Focused on building beautiful interfaces & experiences  
