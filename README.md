@@ -1,7 +1,8 @@
 ### Hi there, I'm [Debid!]() <img src="https://raw.githubusercontent.com/TheDebid/TheDebid/master/assets/hi.gif" width="30px" />
-:computer:  I'm a Full Stack Developer     
-:zap:  Focused on building beautiful interfaces & experiences 
-🌱 I’m currently learning AWS & Typescript
+
+:computer: I'm a Full Stack Developer  
+:zap: Focused on building beautiful interfaces & experiences  
+:seedling: Currently Learning: AWS, GraphQL  
 :wrench: Current Tools: Typescript, React, Node.js, Docker
 
 ### Find me on:
