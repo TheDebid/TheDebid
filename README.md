@@ -1,9 +1,11 @@
-### Hi there, I'm Debid <img src="https://raw.githubusercontent.com/TheDebid/TheDebid/master/assets/hi.gif" width="30px" />
+### Hi there, I'm Debid <img src="https://raw.githubusercontent.com/thedebid/thedebid/master/assets/hi.gif" width="30px" />
 
-:computer: I'm a Full Stack Developer  
-:zap: Focused on building beautiful interfaces & experiences  
+:computer: I'm a Software Engineer  
+:zap: Leading engineering teams to build awesome products with great architecture
 :seedling: Currently Learning: AWS, GraphQL  
 :wrench: Current Tools: Typescript, React, Node.js, Docker
+
+<img src="https://raw.githubusercontent.com/thedebid/thedebid/master/developer.svg" width="250px" align="right" />
 
 ### Find me on:
 
