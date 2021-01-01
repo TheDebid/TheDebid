@@ -5,7 +5,7 @@
 :seedling: Currently Learning: AWS, GraphQL  
 :wrench: Current Tools: Typescript, React, Node.js, Docker
 
-<img src="https://raw.githubusercontent.com/thedebid/thedebid/master/developer.svg" width="250px" align="right" />
+<img src="https://raw.githubusercontent.com/thedebid/thedebid/master/assets/developer.svg" width="250px" align="right" />
 
 ### Find me on:
 
