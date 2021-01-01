@@ -1,5 +1,6 @@
 
 <img src="https://raw.githubusercontent.com/thedebid/thedebid/master/assets/developer.svg" width="270px" align="right" />
+
 ### Hi there, I'm Debid <img src="https://raw.githubusercontent.com/thedebid/thedebid/master/assets/hi.gif" width="30px" />
 
 :computer: I'm a Software Engineer  
