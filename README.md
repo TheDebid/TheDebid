@@ -1,6 +1,7 @@
-### Hi there, I'm Debid <img src="https://raw.githubusercontent.com/thedebid/thedebid/master/assets/hi.gif" width="30px" />
 
 <img src="https://raw.githubusercontent.com/thedebid/thedebid/master/assets/developer.svg" width="250px" align="right" />
+
+### Hi there, I'm Debid <img src="https://raw.githubusercontent.com/thedebid/thedebid/master/assets/hi.gif" width="30px" />
 
 :computer: I'm a Software Engineer  
 :zap: Leading engineering teams to build awesome products with great architecture 
